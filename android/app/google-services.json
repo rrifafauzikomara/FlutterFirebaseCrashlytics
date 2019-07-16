@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114248807258",
+    "firebase_url": "https://latihan-firebase-1d1b8.firebaseio.com",
+    "project_id": "latihan-firebase-1d1b8",
+    "storage_bucket": "latihan-firebase-1d1b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114248807258:android:4a8e9e8b0805f9e2",
+        "android_client_info": {
+          "package_name": "com.rifafauzi.flutter_firebase_crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114248807258-rsl5t1d38fsp83h4sqf60n694h2q3pjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8DgdHLeD3jRdTZDQIwf7yMZ_fDbuct7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114248807258-rsl5t1d38fsp83h4sqf60n694h2q3pjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114248807258-q0nesv1ndpq9r2tebgcf490a1hnsbtqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rifafauzi.flutterFirebaseCrashlytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
